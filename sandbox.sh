@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-PROJECT_NAME=smarts
+PROJECT_NAME=pytorch_diffusion
 PYTHON_VERSION=3.9
 
 # https://stackoverflow.com/questions/59895/how-do-i-get-the-directory-where-a-bash-script-is-located-from-within-the-script
