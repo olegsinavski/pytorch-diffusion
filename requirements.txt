@@ -1,0 +1,16 @@
+torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+
+jupyterlab
+matplotlib
+numpy
+opencv-contrib-python
+opencv-python
+pytorch-lightning
+pandas
+Pillow
+scipy
+seaborn
+torch==1.13.1
+torchvision==0.14.1
+
